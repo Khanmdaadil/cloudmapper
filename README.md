@@ -49,7 +49,7 @@ If you want to add your own private commands, you can create a `private_commands
 ## Installation
 
 Requirements:
-- python 3 (3.7.0rc1 is known to work), `pip`, and `virtualenv`
+- python 3 (3.8.19rc1 is known to work), `pip`, and `virtualenv`
 - You will also need `jq` (https://stedolan.github.io/jq/) and the library `pyjq` (https://github.com/doloopwhile/pyjq), which require some additional tools installed that will be shown.
 
 On macOS:
